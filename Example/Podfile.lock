@@ -1,0 +1,16 @@
+PODS:
+  - CategoryToolSwift (0.1.0)
+
+DEPENDENCIES:
+  - CategoryToolSwift (from `../`)
+
+EXTERNAL SOURCES:
+  CategoryToolSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CategoryToolSwift: a781933521e3ad9353685a51f6ee6d8e621003f6
+
+PODFILE CHECKSUM: f715f96881e2e0bac5b5e41d8aa8a64c1388a7d8
+
+COCOAPODS: 1.11.2

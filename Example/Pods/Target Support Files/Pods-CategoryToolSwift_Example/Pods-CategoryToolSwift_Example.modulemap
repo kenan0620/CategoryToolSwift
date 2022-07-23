@@ -1,0 +1,6 @@
+framework module Pods_CategoryToolSwift_Example {
+  umbrella header "Pods-CategoryToolSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

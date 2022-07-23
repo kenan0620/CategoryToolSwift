@@ -1,0 +1,6 @@
+framework module CategoryToolSwift {
+  umbrella header "CategoryToolSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
